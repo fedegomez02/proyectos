@@ -1,0 +1,45 @@
+.caja{background-color: yellow;
+width: 10em;
+height: 5em;
+border: 2px solid black;
+margin-left: 13vw;
+margin-top: 2vw;
+}
+.contenedor{  display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    
+}
+#forma1{border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border: 1px solid #000000;}
+#forma2{border-radius: 118px 5px 5px 5px;
+    -moz-border-radius: 118px 5px 5px 5px;
+    -webkit-border-radius: 118px 5px 5px 5px;
+    border: 1px solid #000000;}    
+#forma3{border-radius: 11px 11px 11px 11px;
+    -moz-border-radius: 11px 11px 11px 11px;
+    -webkit-border-radius: 11px 11px 11px 11px;
+    border: 1px solid #000000;}    
+#forma4{border-radius: 146px 11px 146px 11px;
+    -moz-border-radius: 146px 11px 146px 11px;
+    -webkit-border-radius: 146px 11px 146px 11px;
+    border: 1px solid #000000;}    
+#forma5{border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 1px solid #000000;}
+#forma6{border-radius: 126px 57px 25px 25px;
+    -moz-border-radius: 126px 57px 25px 25px;
+    -webkit-border-radius: 126px 57px 25px 25px;
+    border: 1px solid #000000;}
+#forma7{border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    border: 1px solid #000000;}      
+#forma8{border-radius: 61px 61px 61px 61px;
+    -moz-border-radius: 61px 61px 61px 61px;
+    -webkit-border-radius: 61px 61px 61px 61px;
+    border: 1px solid #000000;}    
+    
